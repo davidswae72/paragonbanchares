@@ -33,7 +33,7 @@ export default {
   props: {
     src: {
       type: String,
-      default: "/logo/goldi.svg",
+      default: "/logo/lilcube.png",
     },
     name: {
       type: String,

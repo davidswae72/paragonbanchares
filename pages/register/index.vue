@@ -15,7 +15,7 @@
               to="/"
               class="text-upptercase font-weight-bold"
             >
-              <v-img max-width="200" src="/logo/gold2.svg" />
+              <v-img max-width="80" src="/logo/fullcube.png" />
             </v-btn>
 
             <div class="text-button mb-n2 mt-2 white--text">Create Account</div>

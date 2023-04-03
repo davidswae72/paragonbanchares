@@ -28,7 +28,7 @@
                     to="/"
                     class="text-upptercase font-weight-bold ml-n5"
                   >
-                    <v-img max-width="180" src="/logo/gold2.svg" />
+                    <v-img max-width="90" src="/logo/lilcube.png" />
                   </v-btn>
                   <div
                     style="line-height: 1.3"

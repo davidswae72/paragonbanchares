@@ -70,11 +70,11 @@
     >
       <v-list-item class="px-2 white">
         <v-list-item-avatar v-if="mini" large class="ml-n1">
-          <v-img src="/logo/goldi.svg" />
+          <v-img src="/logo/lilcube.png" />
         </v-list-item-avatar>
 
         <v-list-item-title v-else class="pa-2">
-          <v-img src="/logo/gold2.svg" />
+          <v-img src="/logo/fullcube.png" />
         </v-list-item-title>
 
         <v-btn icon color="primary" @click.stop="mini = !mini">
@@ -230,7 +230,7 @@ export default {
       ],
       script: [
         {
-          src: "//code.tidio.co/klgy3oqhgk7m7op914kkfkmpl1k1c8je.js" ,
+          src: "//code.tidio.co/ob0ab7tvexyqe2r4cczaoftekwfe6knf.js"  ,
         },
       ],
     };

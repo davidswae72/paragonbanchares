@@ -24,7 +24,7 @@
               to="/"
               class="text-upptercase font-weight-bold ml-n6 mb-n4 pa-0"
             >
-              <v-img max-width="200" src="/logo/gold2.svg" />
+              <v-img max-width="120" src="/logo/fullcube.png" />
             </v-btn>
             <div class="text-button mb-n2 mt-2 white--text">
               Forgot Password

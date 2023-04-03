@@ -29,30 +29,6 @@
   "XSideBar": {
     "description": "Auto imported from components/xSideBar.vue"
   },
-  "BanksAbsa": {
-    "description": "Auto imported from components/banks/absa.vue"
-  },
-  "BanksAfrican": {
-    "description": "Auto imported from components/banks/african.vue"
-  },
-  "Banks": {
-    "description": "Auto imported from components/banks/banks.vue"
-  },
-  "BanksBidvest": {
-    "description": "Auto imported from components/banks/bidvest.vue"
-  },
-  "BanksCapitec": {
-    "description": "Auto imported from components/banks/capitec.vue"
-  },
-  "BanksInvestec": {
-    "description": "Auto imported from components/banks/investec.vue"
-  },
-  "BanksNedbank": {
-    "description": "Auto imported from components/banks/nedbank.vue"
-  },
-  "BanksStandard": {
-    "description": "Auto imported from components/banks/standard.vue"
-  },
   "AdminDeposit": {
     "description": "Auto imported from components/admin/deposit.vue"
   },
@@ -76,6 +52,30 @@
   },
   "AdminViewImage": {
     "description": "Auto imported from components/admin/viewImage.vue"
+  },
+  "BanksAbsa": {
+    "description": "Auto imported from components/banks/absa.vue"
+  },
+  "BanksAfrican": {
+    "description": "Auto imported from components/banks/african.vue"
+  },
+  "Banks": {
+    "description": "Auto imported from components/banks/banks.vue"
+  },
+  "BanksBidvest": {
+    "description": "Auto imported from components/banks/bidvest.vue"
+  },
+  "BanksCapitec": {
+    "description": "Auto imported from components/banks/capitec.vue"
+  },
+  "BanksInvestec": {
+    "description": "Auto imported from components/banks/investec.vue"
+  },
+  "BanksNedbank": {
+    "description": "Auto imported from components/banks/nedbank.vue"
+  },
+  "BanksStandard": {
+    "description": "Auto imported from components/banks/standard.vue"
   },
   "FormWField": {
     "description": "Auto imported from components/form/wField.vue"

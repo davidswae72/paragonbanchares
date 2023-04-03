@@ -9,7 +9,7 @@
           to="/"
           class="text-upptercase font-weight-bold ml-n4"
         >
-          <v-img max-width="200" src="/logo/gold2.svg" contain/>
+          <v-img max-width="70" src="/logo/fullcube.png" contain/>
         </v-btn>
       </v-toolbar-title>
 
