@@ -324,7 +324,7 @@ export const actions = {
             // send email
             emailjs
               .send(
-                "service_a5t21xb",
+                "service_vkvtaml",
                 "template_3yulksq",
                 {
                   name: `${state.data.personal.firstName} ${state.data.personal.lastName}`,
