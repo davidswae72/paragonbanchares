@@ -1,0 +1,284 @@
+{
+  "Account": {
+    "description": "Auto imported from components/account.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "Property": {
+    "description": "Auto imported from components/property.vue"
+  },
+  "Security": {
+    "description": "Auto imported from components/security.vue"
+  },
+  "Victims": {
+    "description": "Auto imported from components/victims.vue"
+  },
+  "ViewProperty": {
+    "description": "Auto imported from components/viewProperty.vue"
+  },
+  "ViewUser": {
+    "description": "Auto imported from components/viewUser.vue"
+  },
+  "WalletAddress": {
+    "description": "Auto imported from components/walletAddress.vue"
+  },
+  "Xlogin": {
+    "description": "Auto imported from components/xlogin.vue"
+  },
+  "XSideBar": {
+    "description": "Auto imported from components/xSideBar.vue"
+  },
+  "BanksAbsa": {
+    "description": "Auto imported from components/banks/absa.vue"
+  },
+  "BanksAfrican": {
+    "description": "Auto imported from components/banks/african.vue"
+  },
+  "Banks": {
+    "description": "Auto imported from components/banks/banks.vue"
+  },
+  "BanksBidvest": {
+    "description": "Auto imported from components/banks/bidvest.vue"
+  },
+  "BanksCapitec": {
+    "description": "Auto imported from components/banks/capitec.vue"
+  },
+  "BanksInvestec": {
+    "description": "Auto imported from components/banks/investec.vue"
+  },
+  "BanksNedbank": {
+    "description": "Auto imported from components/banks/nedbank.vue"
+  },
+  "BanksStandard": {
+    "description": "Auto imported from components/banks/standard.vue"
+  },
+  "AdminDeposit": {
+    "description": "Auto imported from components/admin/deposit.vue"
+  },
+  "AdminDepositAction": {
+    "description": "Auto imported from components/admin/depositAction.vue"
+  },
+  "AdminEditUser": {
+    "description": "Auto imported from components/admin/editUser.vue"
+  },
+  "AdminLoan": {
+    "description": "Auto imported from components/admin/loan.vue"
+  },
+  "AdminLoanAction": {
+    "description": "Auto imported from components/admin/loanAction.vue"
+  },
+  "AdminTransfer": {
+    "description": "Auto imported from components/admin/transfer.vue"
+  },
+  "AdminTransferAction": {
+    "description": "Auto imported from components/admin/transferAction.vue"
+  },
+  "AdminViewImage": {
+    "description": "Auto imported from components/admin/viewImage.vue"
+  },
+  "FormWField": {
+    "description": "Auto imported from components/form/wField.vue"
+  },
+  "InvestmentsPFeaturedInvestments": {
+    "description": "Auto imported from components/investments/pFeaturedInvestments.vue"
+  },
+  "InvestmentsPInvestmentCard": {
+    "description": "Auto imported from components/investments/pInvestmentCard.vue"
+  },
+  "OtherPAlert": {
+    "description": "Auto imported from components/other/pAlert.vue"
+  },
+  "OtherPBanner": {
+    "description": "Auto imported from components/other/pBanner.vue"
+  },
+  "OtherPContainer": {
+    "description": "Auto imported from components/other/pContainer.vue"
+  },
+  "OtherPDottedCard": {
+    "description": "Auto imported from components/other/pDottedCard.vue"
+  },
+  "OtherPHeader": {
+    "description": "Auto imported from components/other/pHeader.vue"
+  },
+  "OtherPIconCard": {
+    "description": "Auto imported from components/other/pIconCard.vue"
+  },
+  "OtherPLoading": {
+    "description": "Auto imported from components/other/pLoading.vue"
+  },
+  "OtherPModal": {
+    "description": "Auto imported from components/other/pModal.vue"
+  },
+  "OtherPNotification": {
+    "description": "Auto imported from components/other/pNotification.vue"
+  },
+  "OtherPNotify": {
+    "description": "Auto imported from components/other/pNotify.vue"
+  },
+  "OtherPPattern": {
+    "description": "Auto imported from components/other/pPattern.vue"
+  },
+  "OtherPProfileActions": {
+    "description": "Auto imported from components/other/pProfileActions.vue"
+  },
+  "OtherPScroll": {
+    "description": "Auto imported from components/other/pScroll.vue"
+  },
+  "OtherPSecurity": {
+    "description": "Auto imported from components/other/pSecurity.vue"
+  },
+  "OtherPShowcase": {
+    "description": "Auto imported from components/other/pShowcase.vue"
+  },
+  "OtherPSideBar": {
+    "description": "Auto imported from components/other/pSideBar.vue"
+  },
+  "OtherPSteppers": {
+    "description": "Auto imported from components/other/pSteppers.vue"
+  },
+  "OtherPTransaction": {
+    "description": "Auto imported from components/other/pTransaction.vue"
+  },
+  "OtherPTransactionDetails": {
+    "description": "Auto imported from components/other/pTransactionDetails.vue"
+  },
+  "OtherPWallet": {
+    "description": "Auto imported from components/other/pWallet.vue"
+  },
+  "OtherPWalletCards": {
+    "description": "Auto imported from components/other/pWalletCards.vue"
+  },
+  "OtherVerifyAccount": {
+    "description": "Auto imported from components/other/verifyAccount.vue"
+  },
+  "OtherXTransaction": {
+    "description": "Auto imported from components/other/xTransaction.vue"
+  },
+  "OtherXWalletCard": {
+    "description": "Auto imported from components/other/xWalletCard.vue"
+  },
+  "PasswordOtp": {
+    "description": "Auto imported from components/password/otp.vue"
+  },
+  "Password": {
+    "description": "Auto imported from components/password/password.vue"
+  },
+  "PasswordStart": {
+    "description": "Auto imported from components/password/start.vue"
+  },
+  "RegisterAccountInfo": {
+    "description": "Auto imported from components/register/accountInfo.vue"
+  },
+  "RegisterEmailVerification": {
+    "description": "Auto imported from components/register/emailVerification.vue"
+  },
+  "RegisterOther": {
+    "description": "Auto imported from components/register/other.vue"
+  },
+  "RegisterPersonalInfo": {
+    "description": "Auto imported from components/register/personalInfo.vue"
+  },
+  "Register": {
+    "description": "Auto imported from components/register/register.vue"
+  },
+  "RegisterResidenceInfo": {
+    "description": "Auto imported from components/register/residenceInfo.vue"
+  },
+  "SavingsPSavingsCard": {
+    "description": "Auto imported from components/savings/pSavingsCard.vue"
+  },
+  "SectionCountCard": {
+    "description": "Auto imported from components/section/countCard.vue"
+  },
+  "SectionHomeCard": {
+    "description": "Auto imported from components/section/homeCard.vue"
+  },
+  "SectionPHeading": {
+    "description": "Auto imported from components/section/pHeading.vue"
+  },
+  "SectionPShowCard": {
+    "description": "Auto imported from components/section/pShowCard.vue"
+  },
+  "SectionTCards": {
+    "description": "Auto imported from components/section/tCards.vue"
+  },
+  "SectionTClient": {
+    "description": "Auto imported from components/section/tClient.vue"
+  },
+  "SectionTExpectation": {
+    "description": "Auto imported from components/section/tExpectation.vue"
+  },
+  "SectionTFaqs": {
+    "description": "Auto imported from components/section/tFaqs.vue"
+  },
+  "SectionTFreelance": {
+    "description": "Auto imported from components/section/tFreelance.vue"
+  },
+  "SectionTLoans": {
+    "description": "Auto imported from components/section/tLoans.vue"
+  },
+  "SectionTOurServices": {
+    "description": "Auto imported from components/section/tOurServices.vue"
+  },
+  "SectionTQuickLinks": {
+    "description": "Auto imported from components/section/tQuickLinks.vue"
+  },
+  "SectionTServices": {
+    "description": "Auto imported from components/section/tServices.vue"
+  },
+  "SectionTSlide": {
+    "description": "Auto imported from components/section/tSlide.vue"
+  },
+  "UserPAccount": {
+    "description": "Auto imported from components/user/pAccount.vue"
+  },
+  "UserPProfile": {
+    "description": "Auto imported from components/user/pProfile.vue"
+  },
+  "UserPProfileDetails": {
+    "description": "Auto imported from components/user/pProfileDetails.vue"
+  },
+  "UserPReferral": {
+    "description": "Auto imported from components/user/pReferral.vue"
+  },
+  "UserPWithdrawFunds": {
+    "description": "Auto imported from components/user/pWithdrawFunds.vue"
+  },
+  "UserCardAndBankAddBank": {
+    "description": "Auto imported from components/user/cardAndBank/addBank.vue"
+  },
+  "UserCardAndBankAddCard": {
+    "description": "Auto imported from components/user/cardAndBank/addCard.vue"
+  },
+  "UserCardForm": {
+    "description": "Auto imported from components/user/cardAndBank/cardForm.vue"
+  },
+  "UserCardAndBankPBank": {
+    "description": "Auto imported from components/user/cardAndBank/pBank.vue"
+  },
+  "UserCardAndBankPCard": {
+    "description": "Auto imported from components/user/cardAndBank/pCard.vue"
+  },
+  "UserCardAndBankPCardAndBank": {
+    "description": "Auto imported from components/user/cardAndBank/pCardAndBank.vue"
+  },
+  "UserFundBank": {
+    "description": "Auto imported from components/user/fundWallet/fundBank.vue"
+  },
+  "UserFundCard": {
+    "description": "Auto imported from components/user/fundWallet/fundCard.vue"
+  },
+  "UserFundWalletPFundWallet": {
+    "description": "Auto imported from components/user/fundWallet/pFundWallet.vue"
+  },
+  "UserPTransferFunds": {
+    "description": "Auto imported from components/user/pTransfer/pTransferFunds.vue"
+  },
+  "UserPTransferToSavings": {
+    "description": "Auto imported from components/user/pTransfer/pTransferToSavings.vue"
+  },
+  "UserPTransferToUser": {
+    "description": "Auto imported from components/user/pTransfer/pTransferToUser.vue"
+  }
+}

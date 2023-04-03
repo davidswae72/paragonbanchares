@@ -1,0 +1,18 @@
+<template>
+  <v-img class="bgpattern" src="/bg/pattern.png" />
+</template>
+
+<script>
+export default {};
+</script>
+
+<style>
+.bgpattern {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+}
+</style>

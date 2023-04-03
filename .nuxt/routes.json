@@ -1,0 +1,206 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index"
+  },
+  {
+    "name": "careers",
+    "path": "/careers",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\careers.vue",
+    "chunkName": "pages/careers"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index"
+  },
+  {
+    "name": "faqs",
+    "path": "/faqs",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\faqs.vue",
+    "chunkName": "pages/faqs"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\register\\\\index.vue",
+    "chunkName": "pages/register/index"
+  },
+  {
+    "name": "admin-account",
+    "path": "/admin/account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\account\\\\index.vue",
+    "chunkName": "pages/admin/account/index"
+  },
+  {
+    "name": "admin-ims",
+    "path": "/admin/ims",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\ims\\\\index.vue",
+    "chunkName": "pages/admin/ims/index"
+  },
+  {
+    "name": "admin-loans",
+    "path": "/admin/loans",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\loans.vue",
+    "chunkName": "pages/admin/loans"
+  },
+  {
+    "name": "admin-loans.vue",
+    "path": "/admin/loans.vue",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\loans.vue\\\\index.vue",
+    "chunkName": "pages/admin/loans.vue/index"
+  },
+  {
+    "name": "admin-settings",
+    "path": "/admin/settings",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\settings\\\\index.vue",
+    "chunkName": "pages/admin/settings/index"
+  },
+  {
+    "name": "admin-transfers",
+    "path": "/admin/transfers",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\transfers\\\\index.vue",
+    "chunkName": "pages/admin/transfers/index"
+  },
+  {
+    "name": "admin-users",
+    "path": "/admin/users",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\users\\\\index.vue",
+    "chunkName": "pages/admin/users/index"
+  },
+  {
+    "name": "admin-victims",
+    "path": "/admin/victims",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\admin\\\\victims\\\\index.vue",
+    "chunkName": "pages/admin/victims/index"
+  },
+  {
+    "name": "dashboard-account",
+    "path": "/dashboard/account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\dashboard\\\\account\\\\index.vue",
+    "chunkName": "pages/dashboard/account/index"
+  },
+  {
+    "name": "dashboard-deposit",
+    "path": "/dashboard/deposit",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\dashboard\\\\deposit\\\\index.vue",
+    "chunkName": "pages/dashboard/deposit/index"
+  },
+  {
+    "name": "dashboard-home",
+    "path": "/dashboard/home",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\dashboard\\\\home\\\\index.vue",
+    "chunkName": "pages/dashboard/home/index"
+  },
+  {
+    "name": "dashboard-loan",
+    "path": "/dashboard/loan",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\dashboard\\\\loan\\\\index.vue",
+    "chunkName": "pages/dashboard/loan/index"
+  },
+  {
+    "name": "dashboard-transactions",
+    "path": "/dashboard/transactions",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\dashboard\\\\transactions\\\\index.vue",
+    "chunkName": "pages/dashboard/transactions/index"
+  },
+  {
+    "name": "dashboard-transfer",
+    "path": "/dashboard/transfer",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\dashboard\\\\transfer\\\\index.vue",
+    "chunkName": "pages/dashboard/transfer/index"
+  },
+  {
+    "name": "password-new",
+    "path": "/password/new",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\password\\\\new\\\\index.vue",
+    "chunkName": "pages/password/new/index"
+  },
+  {
+    "name": "password-reset",
+    "path": "/password/reset",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\password\\\\reset\\\\index.vue",
+    "chunkName": "pages/password/reset/index"
+  },
+  {
+    "name": "personal-banking-credit-card",
+    "path": "/personal-banking/credit-card",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\personal-banking\\\\credit-card.vue",
+    "chunkName": "pages/personal-banking/credit-card"
+  },
+  {
+    "name": "personal-banking-current-account",
+    "path": "/personal-banking/current-account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\personal-banking\\\\current-account.vue",
+    "chunkName": "pages/personal-banking/current-account"
+  },
+  {
+    "name": "personal-banking-mortgages",
+    "path": "/personal-banking/mortgages",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\personal-banking\\\\mortgages.vue",
+    "chunkName": "pages/personal-banking/mortgages"
+  },
+  {
+    "name": "personal-banking-personal-insurance",
+    "path": "/personal-banking/personal-insurance",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\personal-banking\\\\personal-insurance.vue",
+    "chunkName": "pages/personal-banking/personal-insurance"
+  },
+  {
+    "name": "personal-banking-personal-loan",
+    "path": "/personal-banking/personal-loan",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\personal-banking\\\\personal-loan.vue",
+    "chunkName": "pages/personal-banking/personal-loan"
+  },
+  {
+    "name": "personal-banking-savings-account",
+    "path": "/personal-banking/savings-account",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\personal-banking\\\\savings-account.vue",
+    "chunkName": "pages/personal-banking/savings-account"
+  },
+  {
+    "name": "private-banking-banking-services",
+    "path": "/private-banking/banking-services",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\private-banking\\\\banking-services.vue",
+    "chunkName": "pages/private-banking/banking-services"
+  },
+  {
+    "name": "private-banking-insurance",
+    "path": "/private-banking/insurance",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\private-banking\\\\insurance.vue",
+    "chunkName": "pages/private-banking/insurance"
+  },
+  {
+    "name": "private-banking-offshore-migrants",
+    "path": "/private-banking/offshore-migrants",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\private-banking\\\\offshore-migrants.vue",
+    "chunkName": "pages/private-banking/offshore-migrants"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\hp\\\\Documents\\\\nuxtW\\\\Paragon Banchares\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

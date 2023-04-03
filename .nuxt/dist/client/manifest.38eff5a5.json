@@ -1,0 +1,11 @@
+{
+  "name": "Paragon Banchares Bank",
+  "short_name": "Paragon Banchares Bank",
+  "description": "Paragon Banchares Bank is where you trade Bitcoin and other cryptocurrencies without having prior knowledge of computers. Just create a one-time account, fund and cashout weekly.",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E90000",
+  "lang": "en"
+}
