@@ -434,7 +434,7 @@ export const actions = {
                     is: true,
                     type: "error",
                     message:
-                      "Account blocked, Please contact support@paragonbanchares.online",
+                      "Account blocked, Please contact support@paragonbancharesbk.online",
                   },
                   { root: true }
                 );
@@ -604,7 +604,7 @@ export const actions = {
                     is: true,
                     type: "error",
                     message:
-                      "Account blocked, Please contact support@paragonbanchares.online",
+                      "Account blocked, Please contact support@paragonbancharesbk.online",
                   },
                   { root: true }
                 );

@@ -515,7 +515,7 @@ export const actions = {
               documentStatus: payload.status,
               message:
                 payload.status === null
-                  ? "Your document was declined please send upload or contact support at support@paragonbanchares.online"
+                  ? "Your document was declined please send upload or contact support at support@paragonbancharesbk.online"
                   : "Your document has been approved",
             },
             "LbDRZcVgBxI5b5Bi5"

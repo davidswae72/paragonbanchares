@@ -77,7 +77,7 @@
                           >
                             Contact
                             <span class="secondary--text"
-                              >support@paragonbanchares.online</span
+                              >support@paragonbancharesbk.online</span
                             >
                             for {{ card.paymentMethod }} payment
                           </span>

@@ -363,10 +363,10 @@
                       <v-btn
                         color="accent"
                         text
-                        href="mailto:support@paragonbanchares.online"
+                        href="mailto:support@paragonbancharesbk.online"
                         class="px-0 text-lowercase"
                       >
-                        support@paragonbanchares.online
+                        support@paragonbancharesbk.online
                       </v-btn>
                       to get an <strong>I.M.S Code</strong>
                     </v-col>
@@ -829,7 +829,7 @@ export default {
         timer: 5000,
         type: "accent",
         message:
-          "This service is not available in your region. Send us an email via support@paragonbanchares.online for enquiries.",
+          "This service is not available in your region. Send us an email via support@paragonbancharesbk.online for enquiries.",
       });
     },
 
