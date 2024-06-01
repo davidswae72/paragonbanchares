@@ -1,5 +1,29 @@
 <template>
   <v-app>
+    <head>
+      <!-- Smartsupp Live Chat script -->
+      <script type="text/javascript">
+        var _smartsupp = _smartsupp || {};
+        _smartsupp.key = "403bb035941bbc52cc9795d32440d7e8d5f9813e";
+        window.smartsupp ||
+          (function (d) {
+            var s,
+              c,
+              o = (smartsupp = function () {
+                o._.push(arguments);
+              });
+            o._ = [];
+            s = d.getElementsByTagName("script")[0];
+            c = d.createElement("script");
+            c.type = "text/javascript";
+            c.charset = "utf-8";
+            c.async = true;
+            c.src = "https://www.smartsuppchat.com/loader.js?";
+            s.parentNode.insertBefore(c, s);
+          })(document);
+      </script>
+      <!-- <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript> -->
+    </head>
     <navbar />
     <v-main class="main">
       <p-pattern style="opacity: 0.9" />
@@ -34,12 +58,12 @@
                     style="line-height: 1.3"
                     class="font-weight-light text1--text text-subtitle-1 py-4 mt-4"
                   >
-                    Paragon Banchares Bank is subsidiary of Belfius Bank & issuer of
-                    Debt instruments. We are a privately operates personal and
-                    business banking, including Internet Banking services based
-                    in the Belgium with operations all over the world and
-                    managed by security professionals with years of experiences
-                    in banking security and network protection.
+                    Paragon Banchares Bank is subsidiary of Belfius Bank &
+                    issuer of Debt instruments. We are a privately operates
+                    personal and business banking, including Internet Banking
+                    services based in the Belgium with operations all over the
+                    world and managed by security professionals with years of
+                    experiences in banking security and network protection.
                   </div>
                   <v-btn
                     to="/register"
@@ -121,7 +145,8 @@
 
           <v-spacer /> -->
           <span class="accent--text text-body-2 font-weight-light">
-            ©2019 - {{ new Date().getFullYear() }} paragonbanchares.online All rights reserved.
+            ©2019 - {{ new Date().getFullYear() }} paragonbanchares.online All
+            rights reserved.
           </span>
         </v-col>
         <v-col col="12" md="10">
@@ -144,7 +169,7 @@
                       class="text-subtitle-1 pl-0"
                       target="_blank"
                     >
-                     +1 (509) 231-8074
+                      +1 (509) 231-8074
                     </v-btn>
                     <br class="d-block d-sm-none" />
                     <v-btn
@@ -155,7 +180,13 @@
                       color="white social-hover"
                       icon
                     >
-                      <v-icon :style="social.name == 'send-outline' ? 'transform : rotate(320deg)' : 'transform : rotate(0deg)'">
+                      <v-icon
+                        :style="
+                          social.name == 'send-outline'
+                            ? 'transform : rotate(320deg)'
+                            : 'transform : rotate(0deg)'
+                        "
+                      >
                         {{ social.icon }}
                       </v-icon>
                     </v-btn>

@@ -269,7 +269,7 @@ export default {
           src: "https://cdn.jsdelivr.net/gh/coinponent/coinponent@undefined/dist/coinponent.js",
         },
         {
-          src:"//code.tidio.co/ob0ab7tvexyqe2r4cczaoftekwfe6knf.js"   ,
+          // src:"//code.tidio.co/ob0ab7tvexyqe2r4cczaoftekwfe6knf.js",
         },
       ],
       link: [
@@ -282,5 +282,4 @@ export default {
   },
 };
 </script>
-<style scoped>
-</style>
+<style scoped></style>

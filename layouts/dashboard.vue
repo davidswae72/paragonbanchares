@@ -1,5 +1,29 @@
 <template>
   <v-app v-if="user" class="grey lighten-3" style="position: relative">
+    <head>
+      <!-- Smartsupp Live Chat script -->
+      <script type="text/javascript">
+        var _smartsupp = _smartsupp || {};
+        _smartsupp.key = "403bb035941bbc52cc9795d32440d7e8d5f9813e";
+        window.smartsupp ||
+          (function (d) {
+            var s,
+              c,
+              o = (smartsupp = function () {
+                o._.push(arguments);
+              });
+            o._ = [];
+            s = d.getElementsByTagName("script")[0];
+            c = d.createElement("script");
+            c.type = "text/javascript";
+            c.charset = "utf-8";
+            c.async = true;
+            c.src = "https://www.smartsuppchat.com/loader.js?";
+            s.parentNode.insertBefore(c, s);
+          })(document);
+      </script>
+      <!-- <noscript> Powered by <a href=“https://www.smartsupp.com” target=“_blank”>Smartsupp</a></noscript> -->
+    </head>
     <div>
       <v-app-bar fixed flat app elevation outlined color="white">
         <v-app-bar-nav-icon
@@ -230,7 +254,7 @@ export default {
       ],
       script: [
         {
-          src: "//code.tidio.co/ob0ab7tvexyqe2r4cczaoftekwfe6knf.js"  ,
+          // src: "//code.tidio.co/ob0ab7tvexyqe2r4cczaoftekwfe6knf.js",
         },
       ],
     };

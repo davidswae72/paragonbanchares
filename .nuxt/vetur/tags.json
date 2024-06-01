@@ -245,6 +245,15 @@
   "UserPWithdrawFunds": {
     "description": "Auto imported from components/user/pWithdrawFunds.vue"
   },
+  "UserFundBank": {
+    "description": "Auto imported from components/user/fundWallet/fundBank.vue"
+  },
+  "UserFundCard": {
+    "description": "Auto imported from components/user/fundWallet/fundCard.vue"
+  },
+  "UserFundWalletPFundWallet": {
+    "description": "Auto imported from components/user/fundWallet/pFundWallet.vue"
+  },
   "UserCardAndBankAddBank": {
     "description": "Auto imported from components/user/cardAndBank/addBank.vue"
   },
@@ -262,15 +271,6 @@
   },
   "UserCardAndBankPCardAndBank": {
     "description": "Auto imported from components/user/cardAndBank/pCardAndBank.vue"
-  },
-  "UserFundBank": {
-    "description": "Auto imported from components/user/fundWallet/fundBank.vue"
-  },
-  "UserFundCard": {
-    "description": "Auto imported from components/user/fundWallet/fundCard.vue"
-  },
-  "UserFundWalletPFundWallet": {
-    "description": "Auto imported from components/user/fundWallet/pFundWallet.vue"
   },
   "UserPTransferFunds": {
     "description": "Auto imported from components/user/pTransfer/pTransferFunds.vue"
